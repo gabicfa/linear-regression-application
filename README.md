@@ -1,4 +1,4 @@
-# Project 3 - Linear Regression Application
+# Linear Regression Application
 
 Analysis of GapMinder data and application of the linear regression method during the process.
 
